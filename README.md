@@ -2,22 +2,16 @@
   <img src="https://github.com/user-attachments/assets/0f201a9e-4639-494d-a6cf-26829a443911" alt="Krishna Bantola Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnabantola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
----
 
 ## 👨‍💻 About Me
 
 - 🧑‍💻 **Name:** Krishna Bantola D  
-- 🏆 **Hackathon Warrior:** [Achievements – e.g. 3x Finalist, Top 10 Placements]  
-- 👨🏻‍💻 **Tech Community Leader:** [Community/Organization details]  
-- 🌱 **Open Source Contributor:** [Programs – e.g. GSSOC, SWOC, etc.]  
+- 🏆 **Hackathon Warrior:** [Achievements – e.g. 2x Finalist, Top 10 Hackathons, 2Web3 Hackathons]  
 - 🏗️ **Builder of Impact:** [Key projects – `Project A`, `Project B`]  
 - ⚡ **Fun Fact:** [Unique trait or habit]  
-- 📈 **Current Status:** [What you’re currently focused on]  
-- 🏢 **Internship:** [Current/Past internships]  
+- 📈 **Current Status:** [MCA,DSA,AI]  
+- 🏢 **Internship:** [Student/Web Developer]  
 - 💼 **Freelancing:** [Freelancing experience or pitch]  
 
 ---
@@ -64,3 +58,8 @@
 - [Project C](projectC-link) (Tech stack / highlight)  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnabantola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+

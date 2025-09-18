@@ -19,7 +19,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  
-[![X](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)  
+[![X](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bantola_krishna)  
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---

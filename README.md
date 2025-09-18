@@ -7,13 +7,12 @@
 ## 👨‍💻 About Me
 
 - 🧑‍💻 **Name:** Krishna Bantola D  
-- 🏆 **Hackathon Warrior:** [Achievements – e.g. 2x Finalist, Top 10 Hackathons, 2Web3 Hackathons]  
-- 🏗️ **Builder of Impact:** [Key projects – `Project A`, `Project B`]  
-- ⚡ **Fun Fact:** [Unique trait or habit]  
-- 📈 **Current Status:** [MCA,DSA,AI]  
-- 🏢 **Internship:** [Student/Web Developer]  
-- 💼 **Freelancing:** [Freelancing experience or pitch]  
-
+- 🏆 **Hackathon Warrior:** 2x Finalist, Top 10 Hackathons, 2(Web3) Hackathons
+- 🏗️ **Builder of Impact:** From Static Portfolio to AI Portfolio  
+- ⚡ **Fun Fact:** My playlists switch between lo-fi coding beats and Bollywood bangers😎 
+- 📈 **Current Status:** | MCA | DSA | AI  
+- 🏢 **Internship:** Student | Web Developer  
+- 💼 **Freelancing:** Delivered 2 client projects with modern, scalable web solutions — open to helping businesses build their next big idea.
 ---
 
 ## 🌐 Let's Connect!

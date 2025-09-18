@@ -47,20 +47,14 @@
 
 | Project | Stack | 🔥 Highlights | Demo |
 |---------|-------|--------------|------|
-| [Project 1](project1-link) | React, Node.js | AI chatbot, Modern UI/UX | ✅ [Live](project1-demo) |
+| [Project 1](https://ai-mentor-hackathon.vercel.app/) | React, Node.js | Personalized code analysis, Learning paths, Interview prep | ✅ [Live](https://ai-mentor-hackathon.vercel.app/) |
 | [Project 2](project2-link) | APIs, React | Fast API integration | ✅ [Live](project2-demo) |
 | [Project 3](project3-link) | MERN | Authentication, Dashboard | ✅ [Live](project3-demo) |
 | [Project 4](project4-link) | Next.js, Firebase | Real-time features | ✅ [Live](project4-demo) |
 
 ---
 
-## 📌 Pinned Projects
 
-- [Project A](projectA-link) (Tech stack / highlight)  
-- [Project B](projectB-link) (Tech stack / highlight)  
-- [Project C](projectC-link) (Tech stack / highlight)  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishnabantola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />

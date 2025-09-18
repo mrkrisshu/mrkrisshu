@@ -48,9 +48,9 @@
 | Project | Stack | 🔥 Highlights | Demo |
 |---------|-------|--------------|------|
 | [Project 1](https://ai-mentor-hackathon.vercel.app/) | React, Node.js | Personalized code analysis, Learning paths, Interview prep | ✅ [Live](https://ai-mentor-hackathon.vercel.app/) |
-| [Project 2](project2-link) | APIs, React | Fast API integration | ✅ [Live](project2-demo) |
-| [Project 3](project3-link) | MERN | Authentication, Dashboard | ✅ [Live](project3-demo) |
-| [Project 4](project4-link) | Next.js, Firebase | Real-time features | ✅ [Live](project4-demo) |
+| [Project 2](https://education-hackathonnnn.vercel.app/) | React, Tailwind, Firebase | Interactive flashcards, Adaptive quizzes, Habit tracking | ✅ [Live](https://education-hackathonnnn.vercel.app/) |
+| [Project 3](https://krishnabantola.site/) | Next.js, React, Tailwind CSS | Interactive AI assistant interface, Personal avatar (Memoji), Sections for Projects, Skills, Fun, Contactd | ✅ [Live](https://krishnabantola.site/) |
+| [Project 4](https://event-xx.vercel.app/) | Next.js, React, Tailwind CSS, Vercel | vent management platform with real-time updates, RSVP tracking, Interactive UI, Customizable event sections | ✅ [Live](https://event-xx.vercel.app/) |
 
 ---
 

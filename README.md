@@ -1,5 +1,6 @@
-# Krishna Bantola D | Code, Create, Conquer ⚡
-Welcome to my multiverse of code! 🧠
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f201a9e-4639-494d-a6cf-26829a443911" alt="Krishna Bantola Banner" width="100%" />
+</p>
 
 ---
 
@@ -59,5 +60,3 @@ Welcome to my multiverse of code! 🧠
 - [Project C](projectC-link) (Tech stack / highlight)  
 
 ---
-
-✨ Copy this into your repo’s `README.md` and update the placeholders with your details.  

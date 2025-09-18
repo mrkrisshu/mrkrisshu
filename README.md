@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/0f201a9e-4639-494d-a6cf-26829a443911" alt="Krishna Bantola Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnabantola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me

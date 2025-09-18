@@ -47,10 +47,11 @@
 
 | Project | Stack | 🔥 Highlights | Demo |
 |---------|-------|--------------|------|
-| [Project 1](https://ai-mentor-hackathon.vercel.app/) | React, Node.js | Personalized code analysis, Learning paths, Interview prep | ✅ [Live](https://ai-mentor-hackathon.vercel.app/) |
-| [Project 2](https://education-hackathonnnn.vercel.app/) | React, Tailwind, Firebase | Interactive flashcards, Adaptive quizzes, Habit tracking | ✅ [Live](https://education-hackathonnnn.vercel.app/) |
-| [Project 3](https://krishnabantola.site/) | Next.js, React, Tailwind CSS | Interactive AI assistant interface, Personal avatar (Memoji), Sections for Projects, Skills, Fun, Contactd | ✅ [Live](https://krishnabantola.site/) |
-| [Project 4](https://event-xx.vercel.app/) | Next.js, React, Tailwind CSS, Vercel | vent management platform with real-time updates, RSVP tracking, Interactive UI, Customizable event sections | ✅ [Live](https://event-xx.vercel.app/) |
+| [AI Mentor 🤖](https://ai-mentor-hackathon.vercel.app/) | React, Node.js | Personalized code analysis, Learning paths, Interview prep | ✅ [Live](https://ai-mentor-hackathon.vercel.app/) |
+| [EduMastery 🎓](https://education-hackathonnnn.vercel.app/) | React, Tailwind, Firebase | Interactive flashcards, Adaptive quizzes, Habit tracking | ✅ [Live](https://education-hackathonnnn.vercel.app/) |
+| [AI Portfolio 🖥️](https://krishnabantola.site/) | Next.js, React, Tailwind CSS | Interactive AI assistant interface, Personal avatar (Memoji), Sections for Projects, Skills, Fun, Contactd | ✅ [Live](https://krishnabantola.site/) |
+| [EventXX 🎉](https://event-xx.vercel.app/) | Next.js, React, Tailwind CSS, Vercel | vent management platform with real-time updates, RSVP tracking, Interactive UI, Customizable event sections | ✅ [Live](https://event-xx.vercel.app/) |
+| [Static Portfolio](https://portfolio-git-main-mrkrisshus-projects.vercel.app/) | Next.js, React, Tailwind CSS, Three.js | Personal portfolio with 3D interactive elements, project showcase, skills section, and contact form | ✅ [Live](https://portfolio-git-main-mrkrisshus-projects.vercel.app/) |
 
 ---
 

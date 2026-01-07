@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0f201a9e-4639-494d-a6cf-26829a443911" alt="Krishna Bantola Banner" width="100%" />
-</p>
-
-
 
 ## 👨‍💻 About Me
 
-- 🧑‍💻 **Name:** Krishna Bantola D  
+- 🧑‍💻 **Name:** Krishna Bantola 
 - 🏆 **Hackathon Warrior:** 2x Finalist, Top 10 Hackathons, 2(Web3) Hackathons
 - 🏗️ **Builder of Impact:** From Static Portfolio to AI Portfolio  
 - ⚡ **Fun Fact:** My playlists switch between lo-fi coding beats and Bollywood bangers😎 
